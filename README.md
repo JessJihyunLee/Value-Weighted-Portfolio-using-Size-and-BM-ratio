@@ -15,12 +15,12 @@ Used data downloaded from [Wharton Research Data Services]('ds-web.wharton.upenn
 # Performane Comparison Criteria and Insights
 ![](/Performance2.png)
 ## Sharpe Ratio
-__Sharpe Ratio of Each Strategy before 2009__</br>
+* __Sharpe Ratio of Each Strategy before 2009__</br>
 ![](/Sharpe_before2009.png)</br>
-__Sharpe Ratio of Each Strategy after 2009__</br>
+* __Sharpe Ratio of Each Strategy after 2009__</br>
 ![](/Sharpe_after2009.png)</br>
-__Insights__</br>
-From the results, the most obvious finding is “str2”, “str3” and “str4” all having very low sharpe ratios before 2009, and relatively high values after 2009, while “str1” has a much more stable result within both periods.</br>
+* __Insights__</br>
+     From the results, the most obvious finding is “str2”, “str3” and “str4” all having very low sharpe ratios before 2009, and relatively high values after 2009, while “str1” has a much more stable result within both periods.</br>
 This indicates that size premiums may be more robust when compared with value premiums.
 
 ## Fama-French
